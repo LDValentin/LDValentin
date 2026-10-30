@@ -21,7 +21,7 @@ I’m an Edge Computing Researcher at the University of Puerto Rico at Mayagüez
 |---|---|
 | Research | Edge computing |
 | Education | B.S. Computer Science and Engineering, in progress |
-| Building | Web applications, task tools, and graphics projects |
+| Building | Web applications, task tools, graphics, and model deployment workflows |
 
 ## Tech stack
 
@@ -32,6 +32,7 @@ I’m an Edge Computing Researcher at the University of Puerto Rico at Mayagüez
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frameworks and tools**  
+![Apache TVM](https://img.shields.io/badge/Apache%20TVM-0F4C81?style=flat-square&logo=apache&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,6 +43,7 @@ I’m an Edge Computing Researcher at the University of Puerto Rico at Mayagüez
 
 ## Featured work
 
+- **[TVM Prep Guide](https://github.com/AlfredoSoto1/TVM-Prep-guide)** — A practical guide to compiling machine learning models with Apache TVM for different targets and running exported artifacts with Python or C++. It includes ONNX and TFLite workflows, CPU/GPU devcontainers, and Raspberry Pi deployment examples.
 - **[Marching Cubes with LOD](https://github.com/LDValentin/lod-marching-cubes-inrange)** — Java and LWJGL terrain generation using marching cubes, chunk meshes, and octree-based level of detail.
 - **[Online Store](https://github.com/LDValentin/p2-onlinestore-NonSQLDatabase)** — Next.js storefront backed by a Java service and custom disk-backed data structures.
 - **[TaskFlow](https://github.com/LDValentin/TaskFlow)** — Flutter task manager that ranks tasks using deadline urgency, priority, available time, energy fit, and age.
@@ -54,7 +56,7 @@ B.S. in Computer Science and Engineering · In progress
 
 ## Let’s connect
 
-I’m interested in connecting around edge computing, software projects, and research.
+I’m interested in connecting around edge computing, machine learning deployment, software projects, and research.
 
 - Email: [luis.valentin28@upr.edu](mailto:luis.valentin28@upr.edu)
 - LinkedIn: [linkedin.com/in/luis-vb](https://www.linkedin.com/in/luis-vb/)
